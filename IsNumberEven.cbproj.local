@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.02.06 16:12:59.886,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.02.06 16:12:59.989,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.02.06 16:14:39.949,D:\Projects\Programming\C\BDS\Console\Algorithms\IsNumberEven\IsNumberEvenPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.02.06 16:14:39.968,D:\Projects\Programming\C\BDS\Console\Algorithms\IsNumberEven\File1.c=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.02.06 16:14:39.983,D:\Projects\Programming\C\BDS\Console\Algorithms\IsNumberEven\IsNumberEven.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.02.06 16:14:49.737,D:\Projects\Programming\C\BDS\Console\Algorithms\IsNumberEven\IsNumberEven.c=D:\Projects\Programming\C\BDS\Console\Algorithms\IsNumberEven\File1.c</Transaction>
+    <Transaction>2026.02.06 16:14:52.019,D:\Projects\Programming\C\BDS\Console\Algorithms\IsNumberEven\IsNumberEven.cbproj=D:\Projects\Programming\C\BDS\Console\Algorithms\IsNumberEven\IsNumberEven.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
